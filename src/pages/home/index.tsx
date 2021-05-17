@@ -49,7 +49,7 @@ export default () => {
   const thirdPartyCharts = [...GalleryMeta.third];
 
   return (
-    <Layout siteTitle="可视化精选集">
+    <Layout siteTitle="可视化精选集222">
       <Home
         dashboards={dashboards}
         charts={charts}
