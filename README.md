@@ -13,7 +13,7 @@ Vis Dashboard 收集了一些基于 G2、G2Plot 构建的 dashboard 可视化精
 ![Latest commit](https://badgen.net/github/last-commit/antvis/G2Plot)
 [![build Status](https://github.com/antvis/G2Plot/workflows/build/badge.svg?branch=master)](https://github.com/antvis/G2Plot/actions?query=workflow%3Abuild)
 
-## ⌨️ 本地开发
+## ⌨️ 本地开发2
 
 ```bash
 # 克隆仓库
