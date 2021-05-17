@@ -20,7 +20,7 @@ type Props = {
   headerClassName?: string;
   /** 网站布局 · 主体 classname */
   mainClassName?: string;
-  /** 网站布局 · 脚部 classname */
+  /** 网站布局 · 2脚部 classname */
   footerClassName?: string;
   /** 是否开启主题模式切换 */
   themeModeSwitcher?: boolean;
